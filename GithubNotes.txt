@@ -1,0 +1,5 @@
+git init 
+
+copy url from the profile
+
+add files git add -A
